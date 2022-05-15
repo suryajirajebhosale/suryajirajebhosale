@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @suryajirajebhosale
-- 👀 I’m interested in DS/ML/DL
-- 🌱 I’m currently persuing a career in Data Science and Machine Learning Engineering.
-- 💞️ I’m looking to collaborate on ML/DL/DS projects.
+- 🌱 I’m a Data Science and AI associate.
 - 📫 How to reach me suryajirajebhosale@gmail.com
 
 <!---
