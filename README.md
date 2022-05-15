@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suryajirajebhosale
-- 🌱 I’m a Data Science and AI associate.
+- 🌱 DS/AI
 - 📫 How to reach me suryajirajebhosale@gmail.com
 
 <!---
