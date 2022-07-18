@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suryajirajebhosale
-- 🌱 DS/AI
+- 🌱 DS/MLE
 - 📫 How to reach me suryajirajebhosale@gmail.com
 
 <!---
