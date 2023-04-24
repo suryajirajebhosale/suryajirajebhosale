@@ -2,7 +2,10 @@
 - 🌱 DS/MLE/BE
 - 📫 How to reach me suryajirajebhosale@gmail.com
 
-![image](https://user-images.githubusercontent.com/53821668/233962818-e57e6e91-6126-4c6e-beee-c476d30e354e.png)
+Tech Stack:
+
+![image](https://user-images.githubusercontent.com/53821668/233962818-e57e6e91-6126-4c6e-beee-c476d30e354e.png), ![image](https://user-images.githubusercontent.com/53821668/233962971-d6fe3cfc-1366-4e9c-a593-020cb2204463.png)
+
 
 
 <!---
